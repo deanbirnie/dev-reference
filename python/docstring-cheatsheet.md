@@ -214,9 +214,11 @@ def greet(name: Optional[str] = None) -> str:
 
 ## Additional Resources
 
-- <a href="https://www.python.org/dev/peps/pep-0257/" target="_blank">PEP 257 - Python Docstring Conventions</a>
-- <a href="https://docutils.sourceforge.io/rst.html" target="_blank">reStructuredText (reST) for Docstrings</a>
-- <a href="https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings" target="_blank">Google Style Guide for Python Docstrings</a>
-- <a href="https://www.sphinx-doc.org/en/master/" target="_blank">Sphinx Documentation Generator</a>
+You'll have to open these in new tabs manually (thanks a lot GitHub)...
+
+- [PEP 257 - Python Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+- [reStructuredText (reST) for Docstrings](https://docutils.sourceforge.io/rst.html)
+- [Google Style Guide for Python Docstrings](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
+- [Sphinx Documentation Generator](https://www.sphinx-doc.org/en/master/)
 
 This cheatsheet should help you write clear, concise, and consistent docstrings using the reST style. Keep it handy as a reference for future projects!
